@@ -1,0 +1,104 @@
+.nav-link, .navbar-brand
+{
+  color: rgb(266,266,266);
+}
+
+
+.conteneurgandalf {
+  
+  height: 560px;
+  width: 500px;
+  position: absolute;
+}
+.opacity {
+  height: 560px;
+  width: 500px;
+  background-color: rgba(250,250,250,0.3);
+  position: absolute;
+}
+.opacity:hover {
+  opacity: 0;
+ }
+
+
+.recompense {
+  text-align: center;
+  margin-left: 30px;
+  margin-top: 15px;
+  width: 300px;
+  height:60px;
+  font-size: 23px;
+  border-radius: 18px;
+  background-color: rgba(250, 250, 250,0.7);
+  font-family: Arial,sans-serif;
+  
+}
+.recompense2
+{
+  text-align: center;
+  margin-left: 30px;
+  margin-top: 15px;
+  width: 300px;
+  height:60px;
+  font-size: 23px;
+  border-radius: 18px;
+  background-color: rgba(250, 250, 250,0.7);
+  font-family: Arial,sans-serif;
+}
+.mort
+{
+  text-align: center;
+  margin-right: 60px;
+  margin-top: 145px;
+  width: 300px;
+  height:60px;
+  font-size: 60px;
+  font-family: Arial,sans-serif;
+}
+p{
+  padding:12px;
+}
+.reward {
+  color: rgb(240,110,20);
+}
+.nomfugitif {
+  text-align: left;
+  font-size: 60px;
+  font-family: Arial, sans-serif;
+  color: white;
+  margin-left: 35px;
+  margin-top : 70px;
+}
+
+.petitnomfugitif {
+  font-size: 42px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 260px;
+  color: white;
+  visibility: hidden;
+  margin-right: 140px;
+} 
+.conteneurgandalf:hover .petitnomfugitif {
+  visibility: visible;
+}
+.card-img-top
+{
+  height: 400px;
+}
+.lorem
+{
+  height:100px;
+  overflow: scroll;
+}
+.col 
+{text-align: center;
+border :1px black solid;}
+td
+{
+  border :1px black solid;
+}
+.footer
+{
+  border: none;
+}
